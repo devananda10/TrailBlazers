@@ -53,64 +53,64 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone https://github.com/username/are-you-sure-app.git
+git init
+npm init -y
+
 
 # Run
-[commands]
+npm start
+node server.js
+vercel --prod
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-<img width="1890" height="862" alt="image" src="https://github.com/user-attachments/assets/9a3b3b95-0fd5-4208-9196-c3092142a8d9" />
+# Screenshots 
+![Screenshot1 - Humorous Confirmation Prompt]
+<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/8e0d85a4-fd3c-4b6d-871b-dd6693ffcc7c" />
+This screenshot shows a playful and minimalistic confirmation prompt from areusure.vercel.app, a site designed to repeatedly question
+your decision. The card in the center asks, "Are you sure?" with two large buttons — Yes (green) and No (red). Below the question, 
+it humorously says, "Choose wisely… or don’t". In the bottom-right corner, there’s a cheeky note saying, "There is no escape…",
+adding to the lighthearted, persistent nature of the site.
 
-D
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*<img width="1247" height="491" alt="image" src="https://github.com/user-attachments/assets/2ba0c78b-2e4a-4c40-964a-655edb7116b1" />
+![Screenshot2 -  Customize Wallpaper Menu]
+<img width="1893" height="867" alt="image" src="https://github.com/user-attachments/assets/a170e5ba-af9f-48ab-8331-f730db8fe3c9" />
 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+This screenshot shows the "Customize Your Experience" settings from areusure.vercel.app, specifically the Wallpapers tab. Here, 
+users can personalize the site's background by:
 
-For Hardware:
+Entering an image URL to Add Custom Wallpaper.
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+Uploading a wallpaper directly from their device.
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+Choosing to Use Theme Background Only without any wallpaper overlay.
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+The interface uses a clean, modern design with purple accents, and the background is a dark gradient theme.
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+![Screenshot3 -  Confirmation Prompt with Achievements Pane]
+<img width="1901" height="843" alt="image" src="https://github.com/user-attachments/assets/78b91739-9a0a-4191-9d19-e7c84b175f3c" /> 
+This screenshot from areusure.vercel.app features a playful confirmation message saying, "What if I told you this is irreversible? Still sure?", 
+accompanied by Yes (green) and No (red) buttons. On the left, there’s an Achievements panel that visually tracks user progress and milestones
+without revealing specific data. The certainty level is displayed below the prompt, and a humorous note in the bottom-right corner reads 
+"There is no escape…".
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1ASvtNDBvKv4c-ZXdRSnLlSkYNZpSy-sS/view?usp=sharing
+This demo video is about the “Are You Sure?” App – a fun and never-ending confirmation game. 
+In the video, you’ll see how every button click triggers the question “Are you sure?”, followed by 
+increasingly dramatic variations like “But… are you REALLY sure?”. No matter whether you choose Yes or No, the loop never ends.
 
-# Additional Demos
-[Add any extra demo materials/links]
+The demo also shows special effects — a screen flicker every 5 clicks, and a fake hacking screen every 15 clicks for 30 seconds.
+You’ll also see how the app’s wallpaper can be fully customized, and how achievements are unlocked while you play.
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Devananda N: Documentation
+- Nakul S Kondattu: Web developments
 
----
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
